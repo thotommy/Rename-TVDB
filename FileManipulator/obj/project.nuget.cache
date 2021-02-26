@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rBkX7tQF/ZuODntJRUdkOA+sdgAP2QI932viG5ej/iuxD9x5mZedde0e4ILH9tFckXz0OSxObm73SOSOV67WdQ==",
+  "success": true,
+  "projectFilePath": "/Users/tommyho/Documents/Projects/Rename-TVDB/FileManipulator/FileManipulator.csproj",
+  "expectedPackageFiles": [
+    "/Users/tommyho/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/tommyho/.nuget/packages/system.io.abstractions/13.2.23/system.io.abstractions.13.2.23.nupkg.sha512",
+    "/Users/tommyho/.nuget/packages/system.io.filesystem.accesscontrol/5.0.0/system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/tommyho/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/tommyho/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
