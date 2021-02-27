@@ -1,0 +1,29 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/rename-tvdb-ui/node_modules
+/rename-tvdb-ui/.pnp
+/rename-tvdb-ui/.pnp.js
+
+# testing
+/rename-tvdb-ui/coverage
+
+# production
+/rename-tvdb-ui/build
+
+# misc
+/rename-tvdb-ui/.DS_Store
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+/rename-tvb-ui/npm-debug.log*
+/rename-tvb-ui/yarn-debug.log*
+/rename-tvb-ui/yarn-error.log*
+
+/FileManipulator/.vs
+/FileManipulator/bin
+/FileManipulator/obj
+
